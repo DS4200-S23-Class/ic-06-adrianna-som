@@ -1,7 +1,7 @@
 # ic-06
 ic-06 - JavaScript Part 2
 
-Link to GitHub Pages: [HERE]([url](https://ds4200-s23-class.github.io/ic-06-adrianna-som/))
+Link to GitHub Pages: [HERE](https://ds4200-s23-class.github.io/ic-06-adrianna-som/)
 
 ## Purpose
 
